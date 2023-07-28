@@ -1,0 +1,31 @@
+{
+  "name": "02-next-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.4.12",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.16",
+    "@types/react-dom": "18.2.7",
+    "antd": "^5.7.3",
+    "axios": "^1.1.3",
+    "classnames": "^2.3.2",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "next": "13.4.12",
+    "next-redux-wrapper": "^8.0.0",
+    "normalize.css": "^8.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.1",
+    "sass": "^1.64.1",
+    "typescript": "5.1.6"
+  }
+}

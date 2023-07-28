@@ -1,0 +1,27 @@
+
+
+body {
+  font-size: 14px;
+  color: #333;
+  background-color: #fafafa;
+}
+
+// 版心
+.wrapper {
+  width: $contentWidth;
+  margin: 0 auto;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}

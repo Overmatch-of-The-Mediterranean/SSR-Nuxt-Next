@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "element-plus": "^2.3.8",
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.1.4",
+    "sass": "^1.64.1",
+    "unplugin-element-plus": "^0.7.2"
+  }
+}
